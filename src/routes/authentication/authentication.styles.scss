@@ -1,0 +1,18 @@
+.authentication-container {
+    display: flex;
+    justify-content: space-between;
+    width: 900px;
+    margin: 30px auto;
+}
+
+.sign-in-container,
+.sign-up-container {
+    width: 380px;
+    display: flex;
+    flex-direction: column;
+}
+
+.buttons-container {
+    display: flex;
+    justify-content: space-between;
+}
